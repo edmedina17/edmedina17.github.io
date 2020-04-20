@@ -1,8 +1,8 @@
 ---
 layout: archive
 permalink: /research/
-title: ""
-author _profile: true
+title: "Research"
+author_profile: true
 header:
   image: "/images/CDMX.jpg"
 ---

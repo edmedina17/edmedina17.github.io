@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-   - title: "Research"
+  - title: "Research"
     url: /research/
   # - title: "Sample Posts"
   #   url: /year-archive/
