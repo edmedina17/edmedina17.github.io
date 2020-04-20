@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Eduardo Medina-Cortina"
-  avatar           : "/images/fungraph.jpg "# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi! bienvenido to my Website"
+  avatar           : "/images/fungraph.jpg " # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Hi! Bienvenido to my website"
   location         : "Champaign, IL"
   email            : emm5@illinois.edu
   links:
