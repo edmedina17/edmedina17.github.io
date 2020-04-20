@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    :  "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    :  "dirt" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Eduardo Medina-Cortina"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Ed Medina"
 name                     : "Home"
 description              : "Personal website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -95,16 +95,16 @@ analytics:
 author:
   name             : "Eduardo Medina-Cortina"
   avatar           : "/images/lake1.jpg " # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"Hi! Welcome to my website"
+  bio              : "Hi! Welcome to my website"
   location         : "Champaign, IL"
-  email            : emm5@illinois.edu
+  email            :  #emm5@illinois.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
+      url: emm5@illinois.edu
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://scholar.google.com/citations?hl=es&user=MNjAhfkAAAAJ"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/edmedina_17"
